@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">recyclerveiw1</string>
+
+    <string name="fighter_name">Goku</string>
+    <string name="fighter_race">Sayian</string>
+    <string name="fighter_power">8000</string>
+
+
+    <string-array name="dbz_fighters">
+        <item>Goku</item>
+        <item>Gohan</item>
+        <item>Vageta</item>
+        <item>Krilin</item>
+        <item>Pikolo</item>
+        <item>Cell</item>
+        <item>Freiza</item>
+        <item>Android 16</item>
+        <item>Android 17</item>
+        <item>Android 18</item>
+
+    </string-array>
+
+    <string-array name="dbz_races">
+        <item>Sayian</item>
+        <item>Sayian</item>
+        <item>Sayian</item>
+        <item>Human</item>
+        <item>Namek</item>
+        <item>Monster</item>
+        <item>Monster</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+
+
+    </string-array>
+
+
+    <string-array name="dbz_power">
+        <item>2.25B</item>
+        <item>5B</item>
+        <item>800M</item>
+        <item>2.6M</item>
+        <item>1.65B</item>
+        <item>3.25B</item>
+        <item>120M</item>
+        <item>440M</item>
+        <item>320M</item>
+        <item>280M</item>
+
+
+    </string-array>
+
+    <string-array name="dbz_Description">
+        <item>Goku is introduced as an eccentric, monkey-tailed boy who practices martial arts and possesses superhuman strength. He meets Bulma and joins her on a journey to find the seven wish-granting Dragon Balls.
+</item>
+        <item>Gohan is the son of Chi-Chi and Goku, the brother of Goten, the husband of Videl and the father of Pan. Gohan is a human and Saiyan hybrid.
+</item>
+        <item>Vegeta was once a ruthless, cold-blooded warrior and outright killer, but later abandoned his position in the Frieza Force for a peaceful life on Earth.
+</item>
+        <item>"Goku's ally and a Z Fighter who is short in height and bald"</item>
+        <item>A wise and cunning warrior, he was the main antagonist in the final saga of Dragon Ball</item>
+        <item>Cell is an evil artificial life form created using cell samples from several major characters in the series. He travels back in time so he can become the perfect being. In order to reach this goal, he must absorb Androids 17 and 18.
+</item>
+        <item>the second major villain in the Dragon Ball Z anime. Frieza is one of the strongest aliens in Dragon Ball Z. He enjoys invading other planets. Frieza is a very mean person who thinks he is very strong.
+</item>
+        <item>a completely mechanical-type Android built by Dr. Gero with the prime directive of eliminating Goku. However, regardless of the malicious intent behind his creation, 16 is in reality a gentle and kind-hearted being who cares deeply for animals and nature.</item>
+        <item> a half-human, half-machine created by the evil scientist Dr. Gero.</item>
+        <item>"the older twin sister of Android 17 and Dr. Gero's eighteenth android creation, designed to serve Gero's vendetta against Goku."</item>
+
+
+    </string-array>
+
+</resources>
